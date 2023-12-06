@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  app: {
-    baseURL: '/headless-cms-polo0016-1/' 
-  }
+  // app: {
+  //   baseURL: '/headless-cms-polo0016-1/' 
+  // }
 })
