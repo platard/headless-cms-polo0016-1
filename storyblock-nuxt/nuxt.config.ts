@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
-    baseURL: '/WDIV-week11-practice-nuxt/' 
+    baseURL: '/headless-cms-polo0016-1/' 
   }
 })
